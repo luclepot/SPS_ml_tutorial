@@ -2,6 +2,7 @@
 *.npz
 *.npy
 *.h5
+day2/*.wav
 #########
 
 # Byte-compiled / optimized / DLL files
